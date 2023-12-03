@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // ganti aja gpp
-global.ownerName = "LuciverXploit"
-global.ownerNumber = "62857020030657"
-global.botName = "LuciverXploit"
+global.ownerName = "Nez"
+global.ownerNumber = "6283188140830"
+global.botName = "HAYABUSA"
 
 // waktu delay
 global.waktuDelayBug = 2000 // berarti delay bug nya 2 detik
